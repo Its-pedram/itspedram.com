@@ -84,6 +84,14 @@ button:hover,
   filter: brightness(90%) }
 
 /* Discord */
+.button.button-hyperhacks {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
+/* Discord */
 .button.button-discord {
   color: #FFFFFF;
   background-color: #5865F2 }
@@ -317,3 +325,9 @@ button:hover,
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%) }
+
+/* Custom Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.profile-image {
+  border-radius: 25%;
+}
