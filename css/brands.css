@@ -327,3 +327,10 @@ button:hover,
 .button.button-hyperhacks:hover,
 .button.button-hyperhacks:focus {
   filter: brightness(90%) }
+
+.button.button-wgdc {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-wgdc:hover,
+.button.button-wgdc:focus {
+  filter: brightness(90%) }
