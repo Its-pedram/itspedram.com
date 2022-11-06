@@ -90,6 +90,10 @@ button:hover,
 .button.button-discord:hover,
 .button.button-discord:focus {
   filter: brightness(90%) }
+.button.button-discord:hover span {
+  display: none }
+.button.button-discord:hover:before {
+  content: "Pedram#0082" }
 
 /* Facebook */
 .button.button-facebook {
